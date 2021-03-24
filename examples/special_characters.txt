@@ -1,0 +1,30 @@
+Special characters in default mode.
+
+
+. - matches every character except newline
+\w - every character(a-z, A-Z, 0-9,_)
+\W - not a character
+\d - digit
+\D - not a digit
+\s - space character(including tabs and newlines)
+\S - not a space character
+
+
+\b - boundary of a word
+\B - not a boundary
+^ - starting of the string
+$ - ending of the string
+
+[]      - Matches Characters in brackets
+[^ ]    - Matches Characters NOT in brackets
+|       - Either Or
+( )     - Group
+
+Quantifiers
+-----------
+
+* - causes the preceding RE to match 0 or more times.
++ - preceding RE matches atleast 1 time.
+? - preceding RE matches 0 or 1 time.
+{m} - preceding RE matches exactly m times.
+{m, n} - preceding RE matches atleast m times and atmost n times.

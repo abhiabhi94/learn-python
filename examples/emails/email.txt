@@ -1,0 +1,5 @@
+Just trying to test sending some text.
+
+These contents were picked up from a file.
+
+It seems learning python could be a lot more fun.

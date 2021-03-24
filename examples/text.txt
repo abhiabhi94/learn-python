@@ -1,0 +1,5 @@
+This is a text file.
+It contains literally no information.
+Now I know how to read/write to files using python.
+Fourth line of text.
+This file contains a total of 5 lines.

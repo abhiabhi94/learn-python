@@ -1,0 +1,7 @@
+To: Bar <receiver@domain>
+From: Foo <sender@domain>
+Subject: Testing parsing headers from text template
+
+Wow! This is exceptional
+
+We can send emails by parsing text from a file.
