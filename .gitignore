@@ -1,0 +1,9 @@
+# python stuff
+*.py[cod]
+*.egg-info
+
+# ipython checkpoints
+*.ipynb_checkpoints*
+
+# html files are generated from ipython ones
+*.html
